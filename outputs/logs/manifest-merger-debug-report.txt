@@ -1,0 +1,396 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:grantUriPermissions
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:20:13-47
+	android:authorities
+		INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:18:13-64
+	android:exported
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:17:13-62
+manifest
+ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8700a7ac96209f6d6dcff37ba821f8ea\transformed\navigation-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-android:2.9.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\a3ff90e76d195215095f7dd87a0dedda\transformed\navigation-common-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-compose-android:2.9.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\80edea413eea6da85b1c655999e246da\transformed\navigation-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\e7b79f9bbd9b901f1eda2dc44f7d2aab\transformed\material3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4fd7979fb5f80a923f3666ff9d26499c\transformed\material\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\861e33d06a23093207143bf7791f3ef2\transformed\material-ripple\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\52c6f1203e9f34e36f51bdd326162f73\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\ac5d11da4021f4993bceaac2491eeb9b\transformed\foundation-layout\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\ec7ed12278fa20c68ccee4b40cf0ace6\transformed\animation-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\78a639e7a5531d694a4f86bb4a68a4b7\transformed\animation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\32d405a78ba9e1b32650b61331385a51\transformed\ui-tooling-data\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\0ba93fcbd9ab15eb2f8c595bf48ebad5\transformed\ui-unit\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\3f9a90349504bc6339bd07b58bdc2000\transformed\ui-geometry\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\0e4b236e84dd4122dd11df3f4c18994d\transformed\ui-util\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\83d9953cf85e12c991ba63748d5b9e27\transformed\ui-text\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9fa882653c0c80726e36da0daaa70dc6\transformed\ui-tooling-preview\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1bdf1cad89a3b5253b73fe863e43595b\transformed\ui-tooling\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9d6bf5c2b77b3fd452f06b22d203181b\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\d682a2a56042432b230f146cde9e812d\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\7122184b30e126d2ea4cdf6860880901\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4465fc6a50957a5fe3a1cc083f109303\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9a06abd9ac138a6c4be1642cc2e94850\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b14e7cbbf5d1f2b7a549693307b70e01\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\336a0065fbc36e314a1bd2a04c7f2573\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\3de9f7d78431160a05df68a38df18a3d\transformed\runtime-annotation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\a8a8a6c0c0533d408b16bbd52290a20e\transformed\runtime\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\308312c1d700e734bc9c651d51e711fa\transformed\runtime-saveable\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8f866f6f8e85522e659ffd6e2a61ca35\transformed\savedstate-ktx-1.3.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\2be9b19fb753b2b73d63499b122a001f\transformed\savedstate-compose\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\dbfeb11734798550beae65a62d8334c4\transformed\savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1a2e71b8674c5957f42874ae583d2bb3\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\5bd9ba74ea899418def8f21d8e4e4773\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\10ac3b87430e95ef92fe5a8f0b08e4ca\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\7f8cdcf4ecd6e30a3ce3dc25c41a565c\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\d321f0cc767664cb6a346a4401a51c3f\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b3cfd9650128c7ece59591a1c55427ea\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\cynth\.gradle\caches\8.14.3\transforms\74dc11e77895f29b9693358ae9ed5b71\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\07b895c24a71f3eab93998e648ac0b49\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9f6d817efa1e67a58413beea237c73fb\transformed\ui-test-manifest-1.9.3\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\823eb14208b1f19a883eaf098b84a665\transformed\activity-1.10.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1c16e6e7cc8d9dc584992466af81981c\transformed\activity-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b502c973bd2eb8e0b438cb71b1745310\transformed\activity-compose-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\185ce13c981c19d32d1e5de13fa94985\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\81b3edc4c8baac92a5b71e513e71c9a2\transformed\core-ktx-1.17.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime-android:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9e86f24ecc365b1d56fd4c200d137824\transformed\room-runtime-release\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\e822c50d17684cab7834b86f7e69d592\transformed\room-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\59068aa44bfbcfa488212ca00a28f50e\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4246e9a8486d4fd4fbe7c8fd0173d2ee\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b404031ed1153d578d89afe4cbb23a39\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e01cd06af80e7730ad6ca31b01aef39\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\68280c42b8057e368534e8b08faf1d17\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\0b0504cce9590cd7374eaaf139e469c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\00aea69c805e0ba6ccec49992f8932ee\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\af99136ff65ae9f5eb84cbdcee2821a2\transformed\sqlite-framework-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.5.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\3c33192b01dc3aebeaaeb089076d639b\transformed\sqlite-release\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:5:5-85
+	android:required
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:5:58-82
+	android:name
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:5:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:9:5-36:19
+INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:9:5-36:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1bdf1cad89a3b5253b73fe863e43595b\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1bdf1cad89a3b5253b73fe863e43595b\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4465fc6a50957a5fe3a1cc083f109303\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4465fc6a50957a5fe3a1cc083f109303\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9f6d817efa1e67a58413beea237c73fb\transformed\ui-test-manifest-1.9.3\AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9f6d817efa1e67a58413beea237c73fb\transformed\ui-test-manifest-1.9.3\AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.room:room-runtime-android:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9e86f24ecc365b1d56fd4c200d137824\transformed\room-runtime-release\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9e86f24ecc365b1d56fd4c200d137824\transformed\room-runtime-release\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e01cd06af80e7730ad6ca31b01aef39\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e01cd06af80e7730ad6ca31b01aef39\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\0b0504cce9590cd7374eaaf139e469c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\0b0504cce9590cd7374eaaf139e469c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:11:9-41
+	tools:targetApi
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:14:9-29
+	android:allowBackup
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:13:9-46
+activity#com.notasapp.MainActivity
+ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:exported
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:28:13-36
+	android:theme
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:29:13-50
+	android:name
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:27:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:21:13-23:54
+	android:resource
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:23:17-51
+	android:name
+		ADDED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml:22:17-67
+uses-sdk
+INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8700a7ac96209f6d6dcff37ba821f8ea\transformed\navigation-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8700a7ac96209f6d6dcff37ba821f8ea\transformed\navigation-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\a3ff90e76d195215095f7dd87a0dedda\transformed\navigation-common-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\a3ff90e76d195215095f7dd87a0dedda\transformed\navigation-common-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\80edea413eea6da85b1c655999e246da\transformed\navigation-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\80edea413eea6da85b1c655999e246da\transformed\navigation-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\e7b79f9bbd9b901f1eda2dc44f7d2aab\transformed\material3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\e7b79f9bbd9b901f1eda2dc44f7d2aab\transformed\material3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4fd7979fb5f80a923f3666ff9d26499c\transformed\material\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4fd7979fb5f80a923f3666ff9d26499c\transformed\material\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\861e33d06a23093207143bf7791f3ef2\transformed\material-ripple\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\861e33d06a23093207143bf7791f3ef2\transformed\material-ripple\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\52c6f1203e9f34e36f51bdd326162f73\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\52c6f1203e9f34e36f51bdd326162f73\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\ac5d11da4021f4993bceaac2491eeb9b\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\ac5d11da4021f4993bceaac2491eeb9b\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\ec7ed12278fa20c68ccee4b40cf0ace6\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\ec7ed12278fa20c68ccee4b40cf0ace6\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\78a639e7a5531d694a4f86bb4a68a4b7\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\78a639e7a5531d694a4f86bb4a68a4b7\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\32d405a78ba9e1b32650b61331385a51\transformed\ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\32d405a78ba9e1b32650b61331385a51\transformed\ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\0ba93fcbd9ab15eb2f8c595bf48ebad5\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\0ba93fcbd9ab15eb2f8c595bf48ebad5\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\3f9a90349504bc6339bd07b58bdc2000\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\3f9a90349504bc6339bd07b58bdc2000\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\0e4b236e84dd4122dd11df3f4c18994d\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\0e4b236e84dd4122dd11df3f4c18994d\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\83d9953cf85e12c991ba63748d5b9e27\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\83d9953cf85e12c991ba63748d5b9e27\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9fa882653c0c80726e36da0daaa70dc6\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9fa882653c0c80726e36da0daaa70dc6\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1bdf1cad89a3b5253b73fe863e43595b\transformed\ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1bdf1cad89a3b5253b73fe863e43595b\transformed\ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9d6bf5c2b77b3fd452f06b22d203181b\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9d6bf5c2b77b3fd452f06b22d203181b\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\d682a2a56042432b230f146cde9e812d\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\d682a2a56042432b230f146cde9e812d\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\7122184b30e126d2ea4cdf6860880901\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\7122184b30e126d2ea4cdf6860880901\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4465fc6a50957a5fe3a1cc083f109303\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4465fc6a50957a5fe3a1cc083f109303\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9a06abd9ac138a6c4be1642cc2e94850\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9a06abd9ac138a6c4be1642cc2e94850\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b14e7cbbf5d1f2b7a549693307b70e01\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b14e7cbbf5d1f2b7a549693307b70e01\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\336a0065fbc36e314a1bd2a04c7f2573\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\336a0065fbc36e314a1bd2a04c7f2573\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\3de9f7d78431160a05df68a38df18a3d\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\3de9f7d78431160a05df68a38df18a3d\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\a8a8a6c0c0533d408b16bbd52290a20e\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\a8a8a6c0c0533d408b16bbd52290a20e\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\308312c1d700e734bc9c651d51e711fa\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\308312c1d700e734bc9c651d51e711fa\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8f866f6f8e85522e659ffd6e2a61ca35\transformed\savedstate-ktx-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8f866f6f8e85522e659ffd6e2a61ca35\transformed\savedstate-ktx-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\2be9b19fb753b2b73d63499b122a001f\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\2be9b19fb753b2b73d63499b122a001f\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\dbfeb11734798550beae65a62d8334c4\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\dbfeb11734798550beae65a62d8334c4\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1a2e71b8674c5957f42874ae583d2bb3\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1a2e71b8674c5957f42874ae583d2bb3\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\5bd9ba74ea899418def8f21d8e4e4773\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\5bd9ba74ea899418def8f21d8e4e4773\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\10ac3b87430e95ef92fe5a8f0b08e4ca\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\10ac3b87430e95ef92fe5a8f0b08e4ca\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\7f8cdcf4ecd6e30a3ce3dc25c41a565c\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\7f8cdcf4ecd6e30a3ce3dc25c41a565c\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\d321f0cc767664cb6a346a4401a51c3f\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\d321f0cc767664cb6a346a4401a51c3f\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b3cfd9650128c7ece59591a1c55427ea\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b3cfd9650128c7ece59591a1c55427ea\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\cynth\.gradle\caches\8.14.3\transforms\74dc11e77895f29b9693358ae9ed5b71\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\cynth\.gradle\caches\8.14.3\transforms\74dc11e77895f29b9693358ae9ed5b71\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\07b895c24a71f3eab93998e648ac0b49\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\07b895c24a71f3eab93998e648ac0b49\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9f6d817efa1e67a58413beea237c73fb\transformed\ui-test-manifest-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9f6d817efa1e67a58413beea237c73fb\transformed\ui-test-manifest-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\823eb14208b1f19a883eaf098b84a665\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\823eb14208b1f19a883eaf098b84a665\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1c16e6e7cc8d9dc584992466af81981c\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1c16e6e7cc8d9dc584992466af81981c\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b502c973bd2eb8e0b438cb71b1745310\transformed\activity-compose-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b502c973bd2eb8e0b438cb71b1745310\transformed\activity-compose-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\185ce13c981c19d32d1e5de13fa94985\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\185ce13c981c19d32d1e5de13fa94985\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\81b3edc4c8baac92a5b71e513e71c9a2\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\81b3edc4c8baac92a5b71e513e71c9a2\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9e86f24ecc365b1d56fd4c200d137824\transformed\room-runtime-release\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9e86f24ecc365b1d56fd4c200d137824\transformed\room-runtime-release\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\e822c50d17684cab7834b86f7e69d592\transformed\room-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\e822c50d17684cab7834b86f7e69d592\transformed\room-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\59068aa44bfbcfa488212ca00a28f50e\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\59068aa44bfbcfa488212ca00a28f50e\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4246e9a8486d4fd4fbe7c8fd0173d2ee\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4246e9a8486d4fd4fbe7c8fd0173d2ee\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b404031ed1153d578d89afe4cbb23a39\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\b404031ed1153d578d89afe4cbb23a39\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e01cd06af80e7730ad6ca31b01aef39\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e01cd06af80e7730ad6ca31b01aef39\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\68280c42b8057e368534e8b08faf1d17\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\68280c42b8057e368534e8b08faf1d17\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\0b0504cce9590cd7374eaaf139e469c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\0b0504cce9590cd7374eaaf139e469c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\00aea69c805e0ba6ccec49992f8932ee\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\00aea69c805e0ba6ccec49992f8932ee\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\af99136ff65ae9f5eb84cbdcee2821a2\transformed\sqlite-framework-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\af99136ff65ae9f5eb84cbdcee2821a2\transformed\sqlite-framework-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\3c33192b01dc3aebeaaeb089076d639b\transformed\sqlite-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\3c33192b01dc3aebeaaeb089076d639b\transformed\sqlite-release\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\cynth\OneDrive\Escritorio\NotasApp\mobile\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1bdf1cad89a3b5253b73fe863e43595b\transformed\ui-tooling\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1bdf1cad89a3b5253b73fe863e43595b\transformed\ui-tooling\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\1bdf1cad89a3b5253b73fe863e43595b\transformed\ui-tooling\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4465fc6a50957a5fe3a1cc083f109303\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4465fc6a50957a5fe3a1cc083f109303\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e01cd06af80e7730ad6ca31b01aef39\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e01cd06af80e7730ad6ca31b01aef39\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\8e3b914dc9ea5dde3c77e74bd20faaed\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+permission#com.notasapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+uses-permission#com.notasapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\97923d19ec8c22de1897c8b67597432d\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4465fc6a50957a5fe3a1cc083f109303\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4465fc6a50957a5fe3a1cc083f109303\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\cynth\.gradle\caches\8.14.3\transforms\4465fc6a50957a5fe3a1cc083f109303\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9f6d817efa1e67a58413beea237c73fb\transformed\ui-test-manifest-1.9.3\AndroidManifest.xml:23:9-26:79
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9f6d817efa1e67a58413beea237c73fb\transformed\ui-test-manifest-1.9.3\AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9f6d817efa1e67a58413beea237c73fb\transformed\ui-test-manifest-1.9.3\AndroidManifest.xml:26:13-76
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.3] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9f6d817efa1e67a58413beea237c73fb\transformed\ui-test-manifest-1.9.3\AndroidManifest.xml:24:13-63
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime-android:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9e86f24ecc365b1d56fd4c200d137824\transformed\room-runtime-release\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime-android:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9e86f24ecc365b1d56fd4c200d137824\transformed\room-runtime-release\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9e86f24ecc365b1d56fd4c200d137824\transformed\room-runtime-release\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime-android:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9e86f24ecc365b1d56fd4c200d137824\transformed\room-runtime-release\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime-android:2.7.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\9e86f24ecc365b1d56fd4c200d137824\transformed\room-runtime-release\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\cynth\.gradle\caches\8.14.3\transforms\30b07ab44ff74d9bacb96def6a762a08\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
